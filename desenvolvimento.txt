@@ -1,0 +1,6 @@
+Criar uma função com dois argumentos
+- Receber o valor dos dois argumentos em variáveis diferentes
+- Criar outra variável para fazer uma soma entre os valores 
+- Retornar essa variável que possui a soma dos valores 
+
+- Criar outra variável para receber o valor retornado.
